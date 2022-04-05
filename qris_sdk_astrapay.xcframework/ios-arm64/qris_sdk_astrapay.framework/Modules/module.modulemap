@@ -4,3 +4,8 @@ framework module qris_sdk_astrapay {
   export *
   module * { export * }
 }
+
+module qris_sdk_astrapay.Swift {
+    header "qris_sdk_astrapay-Swift.h"
+    requires objc
+}
