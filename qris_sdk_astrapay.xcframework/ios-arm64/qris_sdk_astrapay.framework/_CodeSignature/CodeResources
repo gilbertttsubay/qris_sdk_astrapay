@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		2BDLUZf/NXG4jg4SO4KYFvEh6iU=
+		</data>
 		<key>BarlowBlack.ttf</key>
 		<data>
 		wsVOz9Zsos2xmdDU7dXfXAhbagA=
@@ -94,11 +98,11 @@
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		BAsbuWSSC382DgzNZBaFEAA29dY=
+		1Ja0TM3hYFGFyhdkmcZ+19R/Ltw=
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		BAsbuWSSC382DgzNZBaFEAA29dY=
+		1Ja0TM3hYFGFyhdkmcZ+19R/Ltw=
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -106,11 +110,11 @@
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		OWia8Hr1wgM8U4ZxMRy4bT0IurA=
+		60Fh5mLmyQadHxi5fqnrCBgtcck=
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Zf4AQD5S4r1Kdql63d6Y3Rj4Utc=
+		zxUNOtG6tZPNX5P0J6QYrrGUMcc=
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -118,11 +122,11 @@
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		OWia8Hr1wgM8U4ZxMRy4bT0IurA=
+		60Fh5mLmyQadHxi5fqnrCBgtcck=
 		</data>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Zf4AQD5S4r1Kdql63d6Y3Rj4Utc=
+		zxUNOtG6tZPNX5P0J6QYrrGUMcc=
 		</data>
 		<key>QRAPButtonAtom.nib</key>
 		<data>
@@ -323,6 +327,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OEuSG+g5gDjYBtROJs2gjdDUmF5cS4wlbL5HY6vioVg=
+			</data>
+		</dict>
 		<key>BarlowBlack.ttf</key>
 		<dict>
 			<key>hash2</key>
@@ -474,14 +485,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qPKvoA5JsYen/6bW3kt1CPm8NHop8niEtXINS9hLl3s=
+			4bTFisQYxnuVc8o7BfH1KlT/UXcvssgP6xI5DbTVX4w=
 			</data>
 		</dict>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qPKvoA5JsYen/6bW3kt1CPm8NHop8niEtXINS9hLl3s=
+			4bTFisQYxnuVc8o7BfH1KlT/UXcvssgP6xI5DbTVX4w=
 			</data>
 		</dict>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -495,14 +506,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iIVCcjJHYxnlgnOpmidrp0CSVqivpqmcQ9zWEIoDL0Q=
+			sWUyfhNBuAxtiwBK6U4KaXiwMnMgnfzuS17pHZgb3i0=
 			</data>
 		</dict>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d75Fl4ngTS7jUGen6Nm+GQ7yRpxLnlrx4ol3o2+sHjc=
+			QBCgZRwTQ3w0wghLKJbl9g6sJHsZS4i7rjH8IHzz11k=
 			</data>
 		</dict>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64.swiftdoc</key>
@@ -516,14 +527,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iIVCcjJHYxnlgnOpmidrp0CSVqivpqmcQ9zWEIoDL0Q=
+			sWUyfhNBuAxtiwBK6U4KaXiwMnMgnfzuS17pHZgb3i0=
 			</data>
 		</dict>
 		<key>Modules/qris_sdk_astrapay.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d75Fl4ngTS7jUGen6Nm+GQ7yRpxLnlrx4ol3o2+sHjc=
+			QBCgZRwTQ3w0wghLKJbl9g6sJHsZS4i7rjH8IHzz11k=
 			</data>
 		</dict>
 		<key>QRAPButtonAtom.nib</key>

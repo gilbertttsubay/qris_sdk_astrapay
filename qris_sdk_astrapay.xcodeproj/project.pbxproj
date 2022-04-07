@@ -22,11 +22,9 @@
 		1EEB014F1FC36E5536020307 /* QRPLMCDetailPaymentTVCell.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB022FF53364B982B3A53F /* QRPLMCDetailPaymentTVCell.nib */; };
 		1EEB016D41D79B4458B4DF5A /* InterBlack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB05FFB6A8D64D00D21367 /* InterBlack.ttf */; };
 		1EEB019B79DC9EA3681187F7 /* QRViewControllerIdentifier.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB01BCD2AF9D3CE2FBF5D2 /* QRViewControllerIdentifier.nib */; };
-		1EEB01A3A6DC4CEF7405A88A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB002416018EDF0E7F4F4F /* Info.plist */; };
 		1EEB01A94100B73772FE6B03 /* BarlowBlack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB0BFDB887D2C55C9671B0 /* BarlowBlack.ttf */; };
 		1EEB01B954739F8D41C2DAE8 /* x86_64.swiftdoc in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB08A82B04A56263D2E53D /* x86_64.swiftdoc */; };
 		1EEB01D8095FE4534C0B8490 /* qris_sdk_astrapay in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB0DA4905D5ADFAAD5276D /* qris_sdk_astrapay */; };
-		1EEB01E02076BA68B30A9707 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB0F000EE535AC760E3D0B /* Info.plist */; };
 		1EEB01EF85674E3B0A049387 /* InterBlack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB0E3EC5C95B79F65D1019 /* InterBlack.ttf */; };
 		1EEB01F2B7873BE078B2A8B1 /* QRViewController.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB01D29B4735E21739371F /* QRViewController.nib */; };
 		1EEB01FFE2CDAFA85410CBCC /* QRPLMaucashQrisLoanTrxVC.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB07F6120DA8B6D3A3C326 /* QRPLMaucashQrisLoanTrxVC.nib */; };
@@ -166,7 +164,6 @@
 		1EEB0F8EA844EB848AA4C12F /* Zv5-gp-haN-view-JTc-6i-dsM.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB001F1F8BD6B030769356 /* Zv5-gp-haN-view-JTc-6i-dsM.nib */; };
 		1EEB0F9A9F13EF0D13C7A752 /* QRCameraControlView.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB07BE8C9558BDDE84A42E /* QRCameraControlView.nib */; };
 		1EEB0F9C6844EDEE94547DB4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB085A3D9ADA8199176343 /* Info.plist */; };
-		1EEB0FACAC701F45772F7B62 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB0BE018575FD1992A536B /* Info.plist */; };
 		1EEB0FB6AEE4B5D04D8E2D94 /* QRDetailPaymentTVCellAstrapay.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB0C99D7C44A58FA5E53DF /* QRDetailPaymentTVCellAstrapay.nib */; };
 		1EEB0FE882309D0526311571 /* QRAPPopUpNoteTransferVC.nib in Resources */ = {isa = PBXBuildFile; fileRef = 1EEB025B42067FE8E57623B4 /* QRAPPopUpNoteTransferVC.nib */; };
 /* End PBXBuildFile section */
@@ -751,7 +748,6 @@
 				1EEB043003F3C94E100A878C /* arm64-apple-ios.swiftdoc in Resources */,
 				1EEB0AD741610F163B5B7B5E /* arm64-apple-ios.swiftinterface in Resources */,
 				1EEB0E3B50773AA547F4F2A1 /* scan.json in Resources */,
-				1EEB0FACAC701F45772F7B62 /* Info.plist in Resources */,
 				1EEB036D4D344998DD79179D /* QRPopUp.nib in Resources */,
 				1EEB055CA7FB04215D5D25E0 /* QRButton.nib in Resources */,
 				1EEB0F44E70E1123288E289F /* InterBold.ttf in Resources */,
@@ -819,7 +815,6 @@
 				1EEB0431B1F3F9F656B4EAF6 /* QRTransactionDetailMiddleTVCell.nib in Resources */,
 				1EEB095B8B3727CBB78033CD /* QRTransactionDetailViewController.nib in Resources */,
 				1EEB00588BAC6F914737A62E /* QRNewTransactionFlowViewController.nib in Resources */,
-				1EEB01A3A6DC4CEF7405A88A /* Info.plist in Resources */,
 				1EEB086AABE9B6DC887FAAA1 /* UI in Resources */,
 				1EEB0064962D32037D864235 /* x86_64.swiftsourceinfo in Resources */,
 				1EEB0B414CCBC48E06E3B147 /* x86_64-apple-ios-simulator.swiftsourceinfo in Resources */,
@@ -866,7 +861,6 @@
 				1EEB0049CA311EB69CFB6723 /* QRInputKeyboardView.nib in Resources */,
 				1EEB05EED1364011A93CE1A2 /* QRResultPaymentView.nib in Resources */,
 				1EEB0D766A0487CDF42CEDA1 /* QRMerchantInfoTvCell.nib in Resources */,
-				1EEB01E02076BA68B30A9707 /* Info.plist in Resources */,
 				1EEB0779CC8ED3D0D848A435 /* 5m1-eR-zLb-view-ecu-k9-wND.nib in Resources */,
 				1EEB019B79DC9EA3681187F7 /* QRViewControllerIdentifier.nib in Resources */,
 				1EEB0F8EA844EB848AA4C12F /* Zv5-gp-haN-view-JTc-6i-dsM.nib in Resources */,

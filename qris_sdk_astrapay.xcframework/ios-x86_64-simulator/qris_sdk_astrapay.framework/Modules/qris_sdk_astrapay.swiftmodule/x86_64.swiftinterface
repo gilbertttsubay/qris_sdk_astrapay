@@ -87,6 +87,8 @@ extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func addTapGestureRecognizerQR(action: (() -> Swift.Void)?)
   @_Concurrency.MainActor(unsafe) public func roundCorners(_ corners: UIKit.UIRectCorner = .allCorners, value: CoreGraphics.CGFloat)
 }
+public struct QRConstant {
+}
 public struct QRInquiryDtoViewData : Swift.Decodable {
   public init(from decoder: Swift.Decoder) throws
 }
