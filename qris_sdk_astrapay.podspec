@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "qris_sdk_astrapay"
-  spec.version      = "0.0.0.2"
+  spec.version      = "0.0.0.3"
   spec.summary      = "A short description of qris_sdk_astrapay."
 
   spec.description  = <<-DESC
@@ -20,7 +20,7 @@ A short description of qris_sdk_astrapay.
 
   spec.author             = { "Gilbert Subay" => "gilbertttsubay@gmail.com" }
 
-  spec.source       = { :git => "https://github.com/gilbertttsubay/qris_sdk_astrapay.git" }
+  spec.source       = { :git => "https://github.com/gilbertttsubay/qris_sdk_astrapay.git", :tag => "1.0.2" }
 
 
  spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
@@ -39,7 +39,7 @@ A short description of qris_sdk_astrapay.
 
 
  spec.vendored_frameworks= 'qris_sdk_astrapay.xcframework'
-   spec.preserve_paths= 'qris_sdk_astrapay.xcframework'
+ spec.preserve_paths= 'qris_sdk_astrapay.xcframework'
 
 
 
